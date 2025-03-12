@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on technical analysis
 - 📫 How to reach me --> DM me!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spm01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-statss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spm01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
