@@ -14,7 +14,7 @@ with an eye toward policy-relevant questions in international finance.
 |---------|-------------|
 | [pairstradingv2.1](https://github.com/spm01/pairstradingv2.1) | Pairs trading strategy on KO/PEP — HAMR signal vs. Bollinger Bands, out-of-sample 2024–2025 |
 | [pairstradingv1.0](https://github.com/spm01/pairstradingv1.0) | First implementation — volatility-of-volatility signal vs. Bollinger baseline |
-| [HK/China Growth](https://github.com/spm01/causal_inf) | Does education spending explain the Hong Kong–China GDP divergence? |
+| [HK/China Growth](https://github.com/spm01/causal_inf/tree/main/HK_CH_GP) | Does education spending explain the Hong Kong–China GDP divergence? |
 | China Macro *(coming soon)* | CNH/CNY spread dynamics, AH-share premium, capital controls |
 
 ---
